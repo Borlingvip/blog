@@ -21266,7 +21266,7 @@ html.hide-aside .layout > div:first-child {
 }
 
 #aside-content .card-widget#card-wechat {
-  background-color: transparent; /* 设置背景色为透明 */
+  background: transparent;
   display: flex;
   justify-content: center;
   align-content: center;
@@ -22971,6 +22971,7 @@ body[data-type="essay"] #web_bg {
   display: flex;
   flex-direction: column;
   text-align: justify;
+  word-break: break-all;
 }
 #bber p {
   margin: 0px;

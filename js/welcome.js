@@ -125,15 +125,13 @@
     .then(r => r.json())
     .then(json => {
       window.ipLocation = json;
-      if (window.location.pathname === '/' || window.location.pathname === '/index.html') {
-        showWelcome();
-      }
+      showWelcome();          // ← 直接调用，不再判断路径
     })
     .catch(err => {
       console.error('[welcome] 获取失败', err);
       window.ipLocation = { data: { country: '地球', province: '', city: '' } };
     });
-
+    
   /* ===== pjax 兼容 ===== */
   document.addEventListener('pjax:complete', () => {
     if (window.location.pathname === '/') showWelcome();

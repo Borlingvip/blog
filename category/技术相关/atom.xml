@@ -51,7 +51,7 @@
 &lt;p&gt;MIUI：&lt;br&gt;设置–安全–隐私保护–保护隐私–特殊权限设置–设备和应用通知–开启Zepp&lt;/p&gt;
 &lt;p&gt;三星：设置–应用程序–右上角”许可管理器”–权限–通知使用权–开启Zepp&lt;/p&gt;
 &lt;p&gt;HarmonyOS：&lt;br&gt;设置–隐私–权限管理–特殊访问权限–通知使用权–开启Zepp&lt;/p&gt;
-&lt;p&gt;其他手机暂未探索到解决方案。如有其他问题，请到用户群提问[emoji]e105[&amp;#x2F;emoji]&lt;/p&gt;
+&lt;p&gt;其他手机暂未探索到解决方案。如有其他问题，请到用户群提问🤍&lt;/p&gt;
 </content>
         <updated>2022-09-29T09:19:17.000Z</updated>
     </entry>
@@ -59,7 +59,7 @@
         <id>https://borling.daydayupup.com/posts/2997/</id>
         <title>关于Amazfit手表配对“遥控拍照”的教程</title>
         <link rel="alternate" href="https://borling.daydayupup.com/posts/2997/"/>
-        <content type="html">&lt;p&gt;[emoji]e021[&amp;#x2F;emoji] 此功能在”实验室“，功能尚不稳定！&lt;/p&gt;
+        <content type="html">&lt;p&gt;❗ 此功能在”实验室“，功能尚不稳定！&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;本教程适用于MIUI，其他手机系统仅参考&lt;/strong&gt;（原理一样，但操作方法有略同）&lt;/p&gt;
 &lt;p&gt;进入设备拍照设置后点击“蓝牙配对”，此时下拉“通知栏“点蓝牙右下角的三角号，点击设备名称，返回后即可配对成功！视频教程如下：&lt;/p&gt;
 &lt;p&gt;（说明：控制拍照需要授权蓝牙连接。因安卓系统的更新换代，原本在此过程中的弹窗授权被屏蔽了，因此需要使用者手动授权蓝牙连接。）&lt;/p&gt;

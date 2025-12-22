@@ -1,0 +1,64 @@
+/* 1. 调整容器高度：去掉 html, body 的设置，只针对地图容器 */
+#map {
+  width: 100%;
+  height: 600px; /* 在博客里必须有一个明确的像素高度或 vh 高度 */
+  margin: 0;
+  font-family: Arial, sans-serif;
+  border-radius: 12px; /* 可选：增加圆角更符合 Anheyu 风格 */
+}
+
+/* 2. 增加命名空间，防止样式冲突 (在所有类名前加上 #infoBox) */
+#infoBox {
+  position: absolute; /* 改为 absolute，相对于地图容器定位更准确 */
+  z-index: 1000;
+  width: 260px;
+  background: var(--card-bg, #fff); /* 适配 Anheyu 的背景色变量 */
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,.3);
+  padding: 12px;
+  pointer-events: none;
+  transition: opacity .2s;
+  border: 1px solid var(--style-border, #eee); /* 适配边框颜色 */
+}
+
+#infoBox .name {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 6px;
+  color: var(--font-color, #333); /* 适配文字颜色 */
+  line-height: 1.2;
+}
+
+#infoBox .time {
+  font-size: 13px;
+  color: #888;
+  margin-bottom: 6px;
+}
+
+#infoBox img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  background: #f5f5f5;
+  border-radius: 4px;
+  margin-bottom: 6px;
+  display: block;
+}
+
+#infoBox .desc {
+  font-size: 14px;
+  color: var(--font-color, #444);
+  line-height: 1.5;
+}
+
+/* 3. 隐藏类 */
+.hidden {
+  opacity: 0 !important;
+  visibility: hidden;
+}
+
+/* 4. 适配 Anheyu 暗黑模式 (如果你的博客支持切换深色) */
+[data-theme='dark'] #infoBox {
+  background: #1d1e22;
+  box-shadow: 0 2px 12px rgba(0,0,0,.5);
+}

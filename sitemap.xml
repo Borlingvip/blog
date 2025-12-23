@@ -367,7 +367,7 @@
   </url>
   
   <url>
-    <loc>https://borling.daydayupup.com/categories/%E5%85%AC%E5%91%8A/</loc>
+    <loc>https://borling.daydayupup.com/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2025-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -381,7 +381,14 @@
   </url>
   
   <url>
-    <loc>https://borling.daydayupup.com/categories/%E6%97%A5%E5%B8%B8/</loc>
+    <loc>https://borling.daydayupup.com/categories/%E5%85%AC%E5%91%8A/</loc>
+    <lastmod>2025-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://borling.daydayupup.com/categories/%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2025-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -396,13 +403,6 @@
   
   <url>
     <loc>https://borling.daydayupup.com/categories/%E6%96%87%E6%A1%88/</loc>
-    <lastmod>2025-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://borling.daydayupup.com/categories/%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2025-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

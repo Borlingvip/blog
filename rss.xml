@@ -5,17 +5,10 @@
         <link>https://borling.daydayupup.com</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Mon, 22 Dec 2025 17:45:48 +0800</pubDate>
-        <lastBuildDate>Mon, 22 Dec 2025 17:45:48 +0800</lastBuildDate>
+        <pubDate>Thu, 04 Sep 2025 00:17:09 +0800</pubDate>
+        <lastBuildDate>Thu, 04 Sep 2025 00:17:09 +0800</lastBuildDate>
         <category>Tag Plugins</category>
         <category>Hexo</category>
-        <item>
-            <guid isPermalink="true">https://borling.daydayupup.com/posts/2372/</guid>
-            <title>足迹地图</title>
-            <link>https://borling.daydayupup.com/posts/2372/</link>
-            <pubDate>Mon, 22 Dec 2025 17:45:48 +0800</pubDate>
-            <description><![CDATA[ &lt;iframe src=&#34;https://borling.daydayupup.com/map&#34; width=&#34;100%&#34; height=&#34;600&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt; ]]></description>
-        </item>
         <item>
             <guid isPermalink="true">https://borling.daydayupup.com/posts/41416/</guid>
             <title>西安市待打卡美食（持续更新）</title>
@@ -1673,6 +1666,20 @@
             <description><![CDATA[ &lt;p&gt;离校后第一次晨跑，虽然但是…难受了一天啊，但是好爽啊😀[emoji]e00e[&amp;#x2F;emoji]&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://boliang.daydayupup.com/blog/wp-content/uploads/2024/08/1000066724-461x1024.jpg&#34;&gt;&lt;/p&gt;
  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://borling.daydayupup.com/posts/57322/</guid>
+            <title>二十岁！</title>
+            <link>https://borling.daydayupup.com/posts/57322/</link>
+            <pubDate>Fri, 05 Jul 2024 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;二十喽🌞踏入一个全新的数字阶段&lt;/p&gt;
+&lt;div class=&#34;gallery&#34;&gt;
+  &lt;div class=&#34;fj-gallery page_img_lazyload  data&#34; data-rowHeight=&#34;220&#34; data-limit=&#34;10&#34;&gt;
+    &lt;span class=&#34;gallery-data&#34;&gt;[{&#34;url&#34;:&#34;https://oss.borling.daydayupup.com/post/2024/07.05/1.png&#34;,&#34;alt&#34;:&#34;&#34;},{&#34;url&#34;:&#34;https://oss.borling.daydayupup.com/post/2024/07.05/2.png&#34;,&#34;alt&#34;:&#34;&#34;}]&lt;/span&gt;
+  &lt;/div&gt;&lt;button class=&#34;gallery-load-more&#34; style=&#34;opacity:0&#34;&gt;
+  &lt;span&gt;加载更多&lt;/span&gt;
+  &lt;i class=&#34;anzhiyufont anzhiyu-icon-arrow-down&#34;&gt;&lt;/i&gt;
+  &lt;/button&gt;&lt;/div&gt; ]]></description>
         </item>
     </channel>
 </rss>

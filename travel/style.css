@@ -1,0 +1,74 @@
+html, body {
+  height:100%;
+  margin:0;
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial;
+}
+
+#map{
+  height:100%;
+  width:100%;
+}
+
+/* 卡片 */
+
+.info-box{
+  position:absolute;
+  z-index:999;
+
+  width:280px;
+  background:#fff;
+  border-radius:12px;
+
+  box-shadow:0 10px 30px rgba(0,0,0,.18);
+
+  padding:10px;
+
+  transition:opacity .18s ease, transform .18s ease;
+
+  transform:translateY(0);
+}
+
+.info-box.hidden{
+  opacity:0;
+  visibility:hidden;
+  transform:translateY(8px);
+}
+
+/* 图片 */
+
+.info-box img{
+  width:100%;
+  height:170px;
+  object-fit:cover;
+  border-radius:8px;
+  background:#f2f2f2;
+  margin-bottom:8px;
+}
+
+/* 标题 */
+
+.info-box h3{
+  margin:0 0 6px;
+  font-size:18px;
+}
+
+/* 描述 */
+
+.info-box p{
+  margin:0;
+  font-size:14px;
+  color:#666;
+}
+
+/* 手机优化 */
+
+@media (max-width:600px){
+
+  .info-box{
+    width:86vw;
+    left:7vw !important;
+    top:auto !important;
+    bottom:18px;
+  }
+
+}
